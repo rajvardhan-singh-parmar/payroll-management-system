@@ -35,7 +35,7 @@ payroll-management-system/
 
 🚀 How to Run
 1. Clone the repo:
-git clone https://github.com/yourusername/payroll-management-system.git
+git clone https://github.com/ajvardhan-singh-parmar/payroll-management-system.git
 2. Install dependencies:
 pip install flask
 3. Run the application:
